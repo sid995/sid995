@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Siddharth
-#### I work as a software engineer at Acko
+#### I work as a software engineer at Dotpe
 Software engineer by day. Same at night. Big fan of lofi. I love many things. I hate a few things. Dreams of the future....Hmm
 
 Skills: REACT / JS / HTML / CSS / STYLED COMPONENTS
