@@ -4,10 +4,9 @@ Student by day. Software Engineer by night. Big fan of post rock. I love many th
 
 Skills: REACT / JS / HTML / CSS / STYLED COMPONENTS
 
-- 5 years of experience as a frontn end engineer.
+- 5 years of experience as a frontend engineer.
 - Pursuing Masters in Computer Science from NJIT.
 - Actively looking for SWE internship positions for summer 2024.
-- Fun fact: I cannot make designs from scratch to save my life.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sid995)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharthkundu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](siddharthcodes.netlify.app)  
 
