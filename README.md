@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Siddharth
-#### I work as a software engineer at Dotpe
+
 Student by day. Software Engineer by night. Big fan of post rock. I love many things. I hate a few things. Dreams of the future....Hmm
 
-Skills: REACT / JS / HTML / CSS / STYLED COMPONENTS
+Skills: REACT / JS / TS / TAILWIND / GO / RUST
 
 - 5 years of experience as a frontend engineer.
 - Pursuing Masters in Computer Science from NJIT.
