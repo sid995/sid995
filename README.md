@@ -6,7 +6,7 @@ Skills: REACT / JS / TS / TAILWIND / GO / PYTHON / ML / PYTORCH / YOLO / COMPUTE
 
 - 5 years of experience as a frontend engineer.
 - Pursuing Masters in Computer Science from NJIT.
-- Actively looking for SWE internship positions for summer 2024.
+- Actively looking for full time SWE/ML roles.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sid995)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddharthkundu/)
 
