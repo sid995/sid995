@@ -41,8 +41,7 @@
 | **[E-Commerce Microservices](https://github.com/sid995/ecommerce-microservice)** | End-to-end Go micro-service architecture (account, catalog, order) behind GraphQL gateway & gRPC mesh. | Go, gRPC, gqlgen, PostgreSQL, Elasticsearch |
 | **[gPDFS](https://github.com/sid995/gpdfs)** | Peer-to-peer distributed file system inspired by GFS / SeaweedFS. | Go, libp2p, gRPC |
 | **[Crypto-Tracker](https://github.com/sid995/crypto-tracker)** | Real-time crypto dashboard with streaming prices & SSR. | Next.js 15, Redux Toolkit, Tailwind |
-
-> I keep most projects deployed — look for **live demo links** in each repo!
+| **[AudioClassifier](https://github.com/sid995/AudioClassifier)** | Real-time environmental sound classification | Next.js, Python, Pytorch, Modal |
 
 ---
 
