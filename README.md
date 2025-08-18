@@ -11,7 +11,7 @@
 - 🔭 I turn ambitious product ideas into production-grade **web** & **ML** systems.
 - 💼 **5+ yrs** shipping high-impact React/Next.js frontends & Go/FastAPI backends.
 - 🎓 **M.S. Graduate in Computer Science** at **NJIT** (May 2025).
-- 🤖 Currently researching **multi-agent LLM workflows** & real-time ML inference.
+- 🤖 Currently looking for **full time SWE roles**.
 - 🎸 Post-rock aficionado & lifelong learner.
 
 ---
