@@ -42,6 +42,7 @@
 | **[gPDFS](https://github.com/sid995/gpdfs)** | Peer-to-peer distributed file system inspired by GFS / SeaweedFS. | Go, libp2p, gRPC |
 | **[Crypto-Tracker](https://github.com/sid995/crypto-tracker)** | Real-time crypto dashboard with streaming prices & SSR. | Next.js 15, Redux Toolkit, Tailwind |
 | **[AudioClassifier](https://github.com/sid995/AudioClassifier)** | Real-time environmental sound classification | Next.js, Python, Pytorch, Modal |
+| **[MusicGenerator](https://github.com/sid995/MusicGenerator)** | Real time AI based music gennerator based on lyrics, and genre. | Next.js, Better Auth, Python, Modal, Vercel, ACEStep, Qwen 2.5-7B Coder |
 
 ---
 
