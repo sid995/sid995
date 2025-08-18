@@ -36,7 +36,7 @@
 
 | Project | Summary | Tech Highlights |
 |---------|---------|-----------------|
-| **[MusicGenerator](https://github.com/sid995/MusicGenerator)** | Real time AI based music gennerator based on lyrics, and genre. | Next.js, Better Auth, Python, Modal, Vercel, ACEStep, Qwen 2.5-7B Coder |
+| **[MusicGenerator](https://github.com/sid995/MusicGenerator)** | Real time AI based music gennerator based on lyrics, and genre. | Next.js, Better Auth, Python, Prisma, NeonDB, Modal, Vercel, ACEStep, Qwen 2.5-7B Coder |
 | **[AudioClassifier](https://github.com/sid995/AudioClassifier)** | Real-time environmental sound classification | Next.js, Python, Pytorch, Modal |
 | **[PDFReader](https://github.com/sid995/pdfreader)** | Chat-with-PDF SaaS leveraging OpenAI embeddings & Stripe subscriptions. | Next.js, Pinecone, OpenAI, Drizzle ORM |
 | **[E-Commerce Microservices](https://github.com/sid995/ecommerce-microservice)** | End-to-end Go micro-service architecture (account, catalog, order) behind GraphQL gateway & gRPC mesh. | Go, gRPC, gqlgen, PostgreSQL, Elasticsearch |
