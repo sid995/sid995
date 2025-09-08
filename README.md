@@ -10,7 +10,7 @@
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | **Audio Classifier** | Full stack system for classifying audio real time using pytorch and deep leaarning | Next.js, BetterAuth, Python, Pytorch, Modal, NeonDB, Qwen | [Repo](https://github.com/sid995/AudioClassifier) |
-| **Music Generator** | Full stack AI based Music generator, generating music in real time on given genre and lyrics. Allows users to publish and download generated music | Reaact, Nextjs, TailwindCSS, BetterAuth, Python, LangChain, FastAPI, NeonDB, Modal | [Repo](https://github.com/sid995/MusicGenerator) |
+| **Music Generator** | Full stack AI based Music generator, generating music in real time on given genre and lyrics. Allows users to publish and download generated music | React, Nextjs, TailwindCSS, BetterAuth, Python, LangChain, FastAPI, NeonDB, Modal | [Repo](https://github.com/sid995/MusicGenerator) |
 | **Ecommerce Microservice** | E-commerce platform built using microservices architecture with Go, gRPC, and GraphQL. | Go, gRPC, and GraphQL | [Repo](https://github.com/sid995/ecommerce-microservice) |
 | **Notesverb** | Backend microservice system for Note taking application | Typescript, Express, Prisma, JWT, Postgresql | [Repo](https://github.com/sid995/NotesVerb) |
 | **Gpdfs** | Distributed file system in Go | Golang, Distributed systems, Tooling | [Repo](https://github.com/sid995/gpdfs) |
