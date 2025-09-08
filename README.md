@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I turn ambitious product ideas into production-grade web & ML systems.<br>💼 5+ yrs shipping high-impact React/Next.js frontends & Go/FastAPI backends.<br>🎓 M.S. Graduate in Computer Science at NJIT (May 2025).<br>🤖 Currently looking for full time SWE roles.
+🔭 I turn ambitious product ideas into production-grade web & ML systems.<br>💼 5+ yrs shipping high-impact React/Next.js frontends & Go, Python and Java backends.<br>🎓 M.S. Graduate in Computer Science at NJIT (May 2025).<br>🤖 Currently looking for full time SWE roles.
 
 
 ## 🌐 Socials:
